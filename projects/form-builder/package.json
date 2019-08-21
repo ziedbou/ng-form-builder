@@ -1,5 +1,5 @@
 {
-  "name": "form-builder",
+  "name": "zb-form-builder",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^8.2.0",

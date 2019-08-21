@@ -1,13 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'lib-form-builder',
-  template: `
-    <p>
-      form-builder works!
-    </p>
-  `,
-  styles: []
+  selector: 'fb-form-builder',
+  templateUrl:'form-builder.component.html',
+  styles: ['form-builder.component.scss']
 })
 export class FormBuilderComponent implements OnInit {
 

@@ -125,7 +125,7 @@
       "projectType": "library",
       "root": "projects/form-builder",
       "sourceRoot": "projects/form-builder/src",
-      "prefix": "lib",
+      "prefix": "fb",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-ng-packagr:build",
@@ -155,6 +155,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "form-builder-package"
 }

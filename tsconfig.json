@@ -20,9 +20,11 @@
     ],
     "paths": {
       "form-builder": [
+        "dist/form-builder",
         "dist/form-builder"
       ],
       "form-builder/*": [
+        "dist/form-builder/*",
         "dist/form-builder/*"
       ]
     }
